@@ -1,8 +1,8 @@
-# My attempt of solving project euler with Ruby
+# My attempt of solving Project Euler with Ruby
 
-I already started it with C a while back until maybe some 30ish level but not because I could't do the math but because I forgot to continue (￣▽￣*)ゞ
+I already started it with C a while back until maybe some 30ish level but I did not continued because I could't do the math but because I forgot to continue (￣▽￣*)ゞ
 
-This time I try to maintain this repo and solve here and there some problems
+This time I try to maintain this repo and sometimes some problems
 
 I'm looking forward to it~
 
