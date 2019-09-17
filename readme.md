@@ -2,7 +2,7 @@
 
 I already started it with C a while back until maybe some 30ish level but I did not continued because I could't do the math but because I forgot to continue (￣▽￣*)ゞ
 
-This time I try to maintain this repo and sometimes some problems
+This time I try to maintain this repo and solve occationaly some problems
 
 I'm looking forward to it~
 
